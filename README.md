@@ -2,7 +2,8 @@
 
 This repo contains code to compile DXVK Switch application. DXVK Switch makes it possible to switch DXVK versions when starting a wine application and revert it back when it closes (without a user interrupt).  
 This is originally intended for switching between async and sync versions of the DXVK, so I can run shader heavy games and programs with less stuttering.  
-This application only works for Linux systems, support for Windows is not considered yet. Also this application is made for a super 
+This application only works for Linux systems, support for Windows is not considered yet. Also this application is quickly put together and buggy mess, don't expect it to work flawlessly for every setup.
+Tested in Arch Linux with Wine staging. 
 
 ## Compilation
 
